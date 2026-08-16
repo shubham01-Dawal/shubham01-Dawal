@@ -1,7 +1,7 @@
 <!-- ══════════ ANIMATED BANNER (auto dark / light) ══════════ -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=20260717">
-    <img src="" alt="shubham dawal — Turning data into insights &amp; ideas into code" width="100%">
+    <img src="Gemini_Generated_Image_ha7bdvha7bdvha7b.png" alt="shubham dawal — Turning data into insights &amp; ideas into code" width="100%">
   </picture>
 
   <br/>
