@@ -1,3 +1,12 @@
+<!-- ══════════ ANIMATED BANNER (auto dark / light) ══════════ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=20260717">
+    <img src="banner-light.svg?v=20260717" alt="Ashish Manoj Koli — Turning data into insights &amp; ideas into code" width="100%">
+  </picture>
+
+  <br/>
+
+
 # 💫 About Me:
 👨‍💻 I'm currently working on personal Full Stack and Data Analytics projects.<br><br>🤝 I'm looking to collaborate on beginner-friendly Open Source and Web Development projects.<br><br>🙋 I'm looking for help with advanced React, Backend Development, and Machine Learning.<br><br>🌱 I'm currently learning  Power BI, SQL, and DSA.<br><br>💬 Ask me about  Python, HTML, CSS, JavaScript, SQL.<br>⚡ Fun fact: I love building projects that solve real-world problems and continuously learning new technologies.
 
