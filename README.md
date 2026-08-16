@@ -1,7 +1,7 @@
 <!-- ══════════ ANIMATED BANNER (auto dark / light) ══════════ -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=20260717">
-    <img src="banner-light.svg?v=20260717" alt="Ashish Manoj Koli — Turning data into insights &amp; ideas into code" width="100%">
+    <img src="" alt="shubham dawal — Turning data into insights &amp; ideas into code" width="100%">
   </picture>
 
   <br/>
