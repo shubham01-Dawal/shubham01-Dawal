@@ -1,3 +1,10 @@
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1200&color=00C2FF&center=true&vCenter=true&repeat=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Dawal" />
+
+</div>
 
 # 💫 About Me:
 👨‍💻 I'm currently working on personal Full Stack and Data Analytics projects.<br><br>🤝 I'm looking to collaborate on beginner-friendly Open Source and Web Development projects.<br><br>🙋 I'm looking for help with advanced React, Backend Development, and Machine Learning.<br><br>🌱 I'm currently learning  Power BI, SQL, and DSA.<br><br>💬 Ask me about  Python, HTML, CSS, JavaScript, SQL.<br>⚡ Fun fact: I love building projects that solve real-world problems and continuously learning new technologies.
